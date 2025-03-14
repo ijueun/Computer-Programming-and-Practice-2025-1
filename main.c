@@ -13,6 +13,10 @@ int main() {
 	return five();
 }
 
+int six() {
+	return 6;
+}
+
 /* 
  * 함수 이름: five
  * 반환 타입: int

@@ -19,5 +19,5 @@ int main() {
  * five()는 5를 결과값으로 반환한다.
  */
 int five() {
-	return 5;
+	return 3;
 }
